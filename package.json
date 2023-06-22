@@ -1,0 +1,32 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ag-grid-community": "21.2.2",
+    "ag-grid-enterprise": "21.2.2",
+    "ag-grid-react": "21.2.2",
+    "connected-react-router": "6.8.0",
+    "history": "4.10.1",
+    "immutable": "4.0.0-rc.12",
+    "linq": "3.2.2",
+    "moment": "^2.27.0",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-json-view": "1.19.1",
+    "react-redux": "7.2.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "redux": "4.0.5",
+    "seamless-immutable": "7.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}

@@ -1,0 +1,11 @@
+.ag-body-viewport [col-id='country'] {
+  background-color: #a6e1ec;
+}
+
+.leftColor {
+  background-color: rgb(24, 138, 138, 0.4);  
+}
+
+.rightColor {
+  background-color: rgb(231, 80, 40, 0.4);
+}
